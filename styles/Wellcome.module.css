@@ -1,0 +1,15 @@
+.wellcome {
+  @apply flex items-center flex-col text-center mt-5 p-4 border-2;
+}
+
+.header {
+  @apply text-5xl;
+}
+
+.text {
+  @apply text-xl mt-4;
+}
+
+.btn {
+  @apply text-center bg-indigo-500 w-40 mt-4 text-white p-2 rounded text-lg hover:bg-indigo-400;
+}

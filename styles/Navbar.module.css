@@ -1,0 +1,7 @@
+.nav {
+  @apply bg-green-600 flex justify-center p-2 mt-4;
+}
+
+.home {
+  @apply text-3xl text-white hover:text-yellow-500 cursor-pointer;
+}
